@@ -1,0 +1,3 @@
+[submodule "themes/lapis"]
+	path = themes/lapis
+	url = git@github.com:jdahm/lapis.git

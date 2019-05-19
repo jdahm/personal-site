@@ -1,0 +1,43 @@
+baseURL = "http://jdahm.me/"
+languageCode = "en-us"
+title = "Johann Dahm"
+theme = "lapis"
+copyright = "All rights reserved - 2019"
+
+[Author]
+    name = "Johann Dahm"
+    bio = "Scientist @ IBM Research"
+    avatar = "profile-square-notie.jpg"
+
+[params]
+    description = "Johann Dahm's landing page"
+    keywords = [ "personal-site", "programming", "hpc" ]
+    animate = true
+    width = "large"
+    css = "/custom.css"
+    skip_nav = true
+
+[[params.social]]
+    icon = "linkedin"
+    url = "https://linkedin.com/in/johann-dahm"
+
+[[params.social]]
+    icon = "github"
+    url = "https://github.com/jdahm"
+
+[[params.social]]
+    icon = "instagram"
+    url = "https://instagram.com/johanndahm"
+
+[[params.social]]
+    icon = "twitter"
+    url = "https://twitter.com/jdahm"
+
+[[params.social]]
+    icon = "keybase"
+    url = "https://keybase.io/jdahm"
+
+# [[params.social]]
+#     icon = "paperclip"
+#     url = "resume"
+#     relative = true

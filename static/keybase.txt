@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/jdahm
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jdahm.me
+  * I am jdahm (https://keybase.io/jdahm) on keybase.
+  * I have a public key with fingerprint DBEA 7074 62B8 AB97 5034  CE6F 1842 F3A8 3722 9868
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e4177ac1b946bcc6e15c1a5d66a213c848b2dd68534e4953583b23a2945b9af40a",
+      "fingerprint": "dbea707462b8ab975034ce6f1842f3a837229868",
+      "host": "keybase.io",
+      "key_id": "1842f3a837229868",
+      "kid": "01011185f963199160ad2756784cb1c74e948635f410dd7adede13fef1fa2a55dc270a",
+      "uid": "0844fa99a2747dc8f2a6cea21558cc00",
+      "username": "jdahm"
+    },
+    "service": {
+      "hostname": "jdahm.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1550383326,
+  "expire_in": 157680000,
+  "prev": "44aa5b1a95f92ef3af5642ae10ed95bb99a02e35092b31d1a441b4ad77515c12",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtUntMHEUcvuOhgH1AbKVigbCtNsBx3cfs60pbiqEaQZFqQV7B2d1Z2HLcnXfL
+SwotNbaCKRKxCIambUhTBWIIlEqblFc0SEmhikixmoJVCgdWEm0toYC7KIl/OP/M
+zDff9833+81Ur/c0+Bi3xP7xKYvV5RgHZwRDRs7DOyWYYJeKMUsJlotWJ2SVkEvN
+ylUkzILhBIkjQLAsFAmBB4wgigwiaJGAtMQwkCQokQOcQEoSw9EUQICnKZqjBJKC
+JA9ogYcywCFmwmTFlo2cDqdiUzVbSUCQxVnAkAIHBZ6lcQqIiJEJDpAyBTmKJUme
+YzhNmGN36QotnABdyKzYNUzbZK3G+x/+Wm6cIAiOlnmGInieYHAokSzNsBwQBUJk
+AeIBx1C0DAhcklgoIQkRlIxkQoYkpGlJJNnV3Pn/2HEAyJDnIckCVhI5mYSMiLTy
+aZoTRRzXiS7ktME8pLEPSTAnDys1YRpUoIhI76pexn+PzdrShDmcdtUu2q0amqOq
+DosuUosdOqsQCVn/6rMExSZp/dMEBcjpUuw2zEJoTFFVdEMtBE5xFEUyJgwVORQn
+ylJ0Bs0yHK4N/RpUoFkCACEtEJDX2kIiOYmCMs0AEiICRxJPC4JWIE4iisZ5UqAI
+iYAAEAKAEsvS+puTmF7SWza7Zs5qQWG2ZupSsm1QzXcirNSvwoPyMhh9DMFPhXnd
+cjtUobP541fBkH3t03l76D/O4Ofrv4bEZ25cjso/MeYIVGcbfFKlhJ31d7zjfrG2
+Dn/QFFy7rebkM+euV8L2U47I5P7HcudO2QdK3Ff/rK4b3W49/FeV5Swbun+gKXnW
+nHrwm2sekfXh7s/DqUX/xcalM93nnw5/oeHFssT8og4Pt3KlT6HSVCWhdXM7P1r9
+YPSd4LLWzgnDbYcpb/bgaDF6FNaxcy+7QJccKH+z63DbveTfLw1GrkT5CxHeOybL
+IiuMC0O5UTNB0XtajXNx5tCQcl+/voi6sKrh0FGvLza8PN53Yyb47ibLaefINaJj
+QKipsE0P3kzyrF2eBe9bAucyuiL2Dp+Y+MpYZb4bUIrNxqb99PxnAZdfavF7ImHG
+Ob7Uv2df9FRv2wZryu3dZz5BWwvWK1vaOtOmmpcmE+3dz14tOL05OvPL/Qtxmelv
+X3aIYm/fgw/Pj4QQk4W1zYlF/jdH4tdRPru3zi3n5x2pPXYhb13Pz6+80TNzLOXx
+mB8iktLdG9O7x7Yt+KT8Ou1pcs9HVF43FVyYGXe9vt02GaH4fnSjpfvb8qZ3E19b
++fHshoaTYec8ujdllMX27/JsZEPSvk5ciDHHxyip+44Mvuc6et+wWH80OeDh8rLt
++ynTfO7E8fnnog+k1SgN4Lv59lrjrt8uqresK+1BLU8Gj1Xys3LQcbXQEUTGjtxv
+7O252HXo0lAKnn1lR+C9R2EeYNr3bw==
+=6BVh
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jdahm
+
+==================================================================

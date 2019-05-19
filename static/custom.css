@@ -1,0 +1,11 @@
+.my-title {
+    font-weight: bold;
+    float: left;
+    display: inline-block;
+}
+
+.loc-time {
+    font-style: italic;
+    float:right;
+    display: inline-block;
+}
