@@ -16,6 +16,7 @@ copyright = "All rights reserved - 2019"
     width = "large"
     css = "/custom.css"
     skip_nav = true
+    skip_footer = true
 
 [[params.social]]
     icon = "linkedin"
