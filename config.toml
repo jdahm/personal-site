@@ -2,6 +2,7 @@ baseURL = "http://jdahm.me/"
 languageCode = "en-us"
 title = "Johann Dahm"
 theme = "lapis"
+googleAnalytics = "UA-50075135-1"
 copyright = "All rights reserved - 2019"
 
 [Author]
@@ -16,7 +17,6 @@ copyright = "All rights reserved - 2019"
     width = "large"
     css = "/custom.css"
     skipFooter = true
-    googleAnalytics = "UA-50075135-1"
 
 [[params.social]]
     icon = "linkedin"
