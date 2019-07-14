@@ -6,7 +6,7 @@ copyright = "All rights reserved - 2019"
 
 [Author]
     name = "Johann Dahm"
-    bio = "Scientist @ IBM Research"
+    bio = "Using electrons efficiently for science @ IBM Research"
     avatar = "profile-square-notie.jpg"
 
 [params]
@@ -15,8 +15,8 @@ copyright = "All rights reserved - 2019"
     animate = true
     width = "large"
     css = "/custom.css"
-    skip_nav = true
-    skip_footer = true
+    skipFooter = true
+    googleAnalytics = "UA-50075135-1"
 
 [[params.social]]
     icon = "linkedin"
