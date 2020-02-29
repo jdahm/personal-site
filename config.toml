@@ -7,7 +7,7 @@ copyright = "All rights reserved - 2019"
 
 [Author]
     name = "Johann Dahm"
-    bio = "Using electrons efficiently for science @ IBM Research"
+    bio = "Creating DSL compilers @ Vulcan"
     avatar = "profile-square-notie.jpg"
 
 [params]
