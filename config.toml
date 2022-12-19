@@ -2,7 +2,7 @@ baseURL = "http://jdahm.me/"
 languageCode = "en-us"
 title = "Johann Dahm"
 theme = "lapis"
-googleAnalytics = "UA-50075135-1"
+googleAnalytics = "G-TS73PFN6HF"
 copyright = "All rights reserved - 2019"
 
 [Author]
