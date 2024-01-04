@@ -5,4 +5,5 @@ exampleSite/resources/
 *.lock
 public
 tmp/
+**/_gen/
 .hugo_build.lock
